@@ -61,7 +61,8 @@ function Set-DbaPfDataCollector_CPU
         Website:		http://www.dbamastery.com
         Twitter:		@dbamastery
     .LINK
-        https://github.com/dbamaster/dbamastery/tree/master/PerfMonDataCollector
+        https://git.io/fNPMZ
+        http://www.dbamastery.com
 #>
 
     [cmdletbinding()]
