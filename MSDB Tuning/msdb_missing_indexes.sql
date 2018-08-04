@@ -1,6 +1,6 @@
 /*
 -- +----------------------------------------------------------------------------+
--- |                  			DBA Mastery		                                      |
+-- |                  			DBA Mastery                                     |
 -- |                        dbamastery@gmail.com                                |
 -- |                      http://www.dbamastery.com                             |
 -- |----------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
--- switching to MSDB database
+-- switching context to MSDB database
 USE MSDB
 GO
 
