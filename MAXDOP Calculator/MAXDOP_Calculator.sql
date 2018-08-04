@@ -45,7 +45,7 @@ GO
 
 IF ('$(IsSqlCmdEnabled)' = '$' + '(IsSqlCmdEnabled)')
 	BEGIN
-		--PRINT N'Disabling script execution.';
+		-- Disabling script execution in case SQLCMD mode is not enabled in SSMS
         PRINT N'SQLCMD mode must be enabled to successfully execute this script.';
 		PRINT N'For instructions on how to use SQLCMD mode in SSMS, please visit this post from my blog:';
 		PRINT N'http://www.dbamastery.com/tips/SQLCMD-mode-SSMS'
