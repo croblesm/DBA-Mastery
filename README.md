@@ -10,10 +10,10 @@ Just another witchcraft and wizardry site and DBA tips ...
 This tool will help you to calculate to correct MAXDOP configuration for your SQL Server instance.
 
 ## Database Integrity Check
-This tool will help you to calculate to correct MAXDOP configuration for your SQL Server instance.
+Performs a database integrity check for one or all databases.
 
 ## Orphan datafiles
-This tool will help you to calculate to correct MAXDOP configuration for your SQL Server instance.
+Retrieves information about orphan database files left behind in file systems..
 
 ## License
 [MIT](/LICENSE.md)
