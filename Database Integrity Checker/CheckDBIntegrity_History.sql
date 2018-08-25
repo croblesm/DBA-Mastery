@@ -62,4 +62,3 @@ CREATE TABLE [dbo].[CheckDBIntegrity_History](
 	[Allocation] [int] NULL
 ) ON [PRIMARY]
 GO
-
