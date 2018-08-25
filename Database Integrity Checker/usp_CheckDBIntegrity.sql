@@ -190,4 +190,4 @@ IF @DBName IS NULL
 		CLOSE database_cursor
 		DEALLOCATE database_cursor
 	END
-GO
+GO									     
