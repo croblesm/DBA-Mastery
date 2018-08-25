@@ -3,7 +3,7 @@
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/database-2.png)](http://dbamastery.com/)
 Just another witchcraft and wizardry site and DBA tips …
 
-Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] <a href="http://dbamastery.com/" target="_blank">example</a> as:
+Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
 
 - MSDB tuning  
 - MAXDOP calculator
