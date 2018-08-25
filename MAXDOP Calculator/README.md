@@ -6,3 +6,4 @@ This tool will help you to calculate to correct MAXDOP configuration for your SQ
 
 ## License
 [MIT](/LICENSE.md)
+dd
