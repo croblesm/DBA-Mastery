@@ -10,6 +10,7 @@ Welcome to my GitHub repository, here you will find all source code of my previo
 - Database Integrity Checker (**Under testing**)
 - PerfMon for DBAs (**Under testing**)
 - SQL Server docker image creator (**In development**)
+- Orphan data files (**In development**)
 - Query Store Queries (**In development**)
 
 ## MSDB Tuning
