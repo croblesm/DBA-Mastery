@@ -11,7 +11,8 @@ Welcome to my GitHub repository, here you will find all source code of my previo
 - PerfMon for DBAs (**Under testing**)
 - SQL Server docker image creator (**In development**)
 - Orphan data files (**In development**)
-- Query Store Queries (**In development**)
+- Query Store monitoring (**In development**)
+- Availability groups monitoring (**In development**)
 
 ## MSDB Tuning
 This is a simple T-SQL script that creates a set of missing indexes on MSDB database, which improves the performance of backup\restore purge process.
