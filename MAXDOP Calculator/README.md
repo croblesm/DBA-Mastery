@@ -41,7 +41,7 @@ RECONFIGURE WITH OVERRIDE;
 The output message returns the current and recommended MAXDOP configuration, also the syntax to change it in case it is wrong.
 
 ### NOTE
-The requirement to execute this T-SQL script is to have SQLCMD mode enabled in SSMS, you can take a look at my previous [post] to learn how to enable it.
+The requirement to execute this T-SQL script is to have SQLCMD mode enabled in SSMS, you can take a look at one of my blog [post] where you can learn how to enable it.
 
 **_Please don't hesitate to leave your feedback, thanks!_**
 
