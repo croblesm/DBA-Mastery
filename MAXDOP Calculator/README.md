@@ -51,4 +51,4 @@ The requirement to execute this T-SQL script is to have SQLCMD mode enabled in S
 ## License
 [MIT](/LICENSE.md)
 
-[post]: <http://dbamastery.com/>
+[post]: <http://dbamastery.com/tips/sqlcmd-mode-ssms/>
