@@ -1,0 +1,22 @@
+{
+            "name": "Wait stats",
+            "gridItemConfig": {
+                "sizex": 2,
+                "sizey": 1
+            },
+            "widget": {
+                "insights-widget": {
+                    "type": {
+                        "horizontalBar": {
+                            "dataDirection": "vertical",
+                            "columnsAsLabels": false,
+                            "labelFirstColumn": false,
+                            "legendPosition": "none",
+                            "yAxisLabel": "WAIT TYPE",
+                            "xAxisLabel": "PERCENTAGE"
+                        }
+                    },
+                    "queryFile": "/Users/MyUser/Documents/wait_stats.sql"
+                }
+            }
+}
