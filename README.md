@@ -7,7 +7,7 @@ Welcome to my GitHub repository, here you will find all source code of my previo
 
 - MSDB tuning - SQL Script
 - MAXDOP calculator - SQL Script
-- Wait stats widget for Azure Data Studio (macOS)
+- Wait stats widget for Azure Data Studio (macOS) - JSON \ SQL Script
 - Database Integrity Checker (**Under testing**)
 - PerfMon for DBAs - PowerShell (**Under testing**)
 - SQL Server docker image creator - Linux (**In development**)
