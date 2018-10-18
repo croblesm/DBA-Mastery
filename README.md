@@ -32,22 +32,19 @@ This T-SQL script and JSON files will help you to create a custom widget for Azu
 This PowerShell script will help you to create a PerfMon data collector job in any Windows server, this first version only contains the PowerShell for the CPU counters.
 
 ## Database Integrity Checker
-This T-SQL script and JSON files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
+This T-SQL script files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
 
 ## SQL Server docker image creator
-This T-SQL script and JSON files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
+This shell script will help you to create a SQL Server docker image in the 2017 or 2019 version. It works for Ubuntu and RHEL.
 
 ## Orphan data files
-This T-SQL script and JSON files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
-
-## SQL Server docker image creator
-This T-SQL script and JSON files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
+This PowerShell script uses DBATools the DBA-GetDatafiles function, it loops through a defined list of servers looking for datafiles sitting on disk not attached to a database.
 
 ## Query Store monitoring
-This T-SQL script and JSON files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
+This T-SQL script can help you to monitor Query Store without the need of the SSMS built-nt reports, it shows the current storage utilization, queries with multiple execution plans, longest duration queries and more.
 
 ## Availability groups monitoring
-This T-SQL script and JSON files will help you to run a DBCC CHECKDB for one or all databases from a SQL Server instance, it also identifies corruption issues for any iteration.
+This T-SQL script and PowerShell script will help you to monitor your AGs without using the SSMS buil-in report.
 
 # Follow me
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_twitter_circle_color_107170.png)](https://twitter.com/dbamastery) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/dbamaster) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_linkedin_circle_color_107178.png)](https://www.linkedin.com/in/croblesdba/) [![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](http://dbamastery.com/)
