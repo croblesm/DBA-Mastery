@@ -5,15 +5,15 @@ Just another witchcraft and wizardry site and DBA tips …
 
 Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
 
-- MSDB tuning  
-- MAXDOP calculator
+- MSDB tuning - SQL Script
+- MAXDOP calculator - SQL Script
 - Wait stats widget for Azure Data Studio (macOS)
 - Database Integrity Checker (**Under testing**)
-- PerfMon for DBAs (**Under testing**)
-- SQL Server docker image creator (**In development**)
-- Orphan data files (**In development**)
-- Query Store monitoring (**In development**)
-- Availability groups monitoring (**In development**)
+- PerfMon for DBAs - PowerShell (**Under testing**)
+- SQL Server docker image creator - Linux (**In development**)
+- Orphan data files - PowerShell (**In development**)
+- Query Store monitoring - SQL Script (**In development**)
+- Availability groups monitoring - Powershell \ SQL Script (**In development**)
 
 ## MSDB Tuning
 This is a simple T-SQL script that creates a set of missing indexes on MSDB database, which improves the performance of backup\restore purge process.
