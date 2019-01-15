@@ -12,7 +12,7 @@ Leader of [Guatemala SQL Server user group], mentor, speaker at SQL Saturday’s
 
 If you don’t find me talking about SQL Server or geek stuff on twitter, it is very likely that I will be online playing videos games with my wife and daughter or hiking around the Denver mountains.
 
-Feel free to [email] or tweet me with any questions, comments. I’m always happy to help and learn from the #SQLFamily.
+Feel free to email me at <dbamastery@gmail.com> or tweet me at [@dbamastery] with any questions, comments. I’m always happy to help and learn from the #SQLFamily.
 
 I hope you find all the information/ DBA tips shared in this repository are useful for you.
 
@@ -28,3 +28,4 @@ DBA Master
 [SQL Server Central]: <http://www.sqlservercentral.com/Authors/Articles/Carlos_Robles/1194096/>
 [MSSQL Tips]: <https://www.mssqltips.com/sqlserverauthor/326/carlos-robles/>
 [email]: <dbamastery@gmail.com>
+[@dbamastery]: <https://twitter.com/dbamastery>
