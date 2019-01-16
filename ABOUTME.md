@@ -8,9 +8,9 @@ Also have multiple certifications under my belt (MCP, MCTS, MCSA, MCSE) from the
 
 I have developed a few open source tools like MAXDOP Calculator, Wait Stats widget for Azure Data Studio; please take a look at my GitHub repository and help me giving me some feedback.
 
-Leader of [Guatemala SQL Server user group], mentor, speaker at SQL Saturday’s and SQL local groups events.  Recently debuted as author; I started to write articles for Simple-Talk (Redgate), [SQL Server Central] and [MSSQL Tips].
+Leader of [Guatemala SQL Server user group], mentor, speaker at SQL Saturday’s and SQL local groups events. ecently debuted as author as well, I have a few articles published at Simple-Talk (Redgate), [SQL Server Central] and [MSSQL Tips].
 
-If you don’t find me talking about SQL Server or geek stuff on twitter, it is very likely that I will be online playing videos games with my wife and daughter or hiking around the Denver mountains.
+If you don’t find me talking about SQL Server or geek stuff on twitter, it is very likely that I will be online playing videos games with my wife and daughter (a gamer family) or sometimes just enjoying the beautiful outdoors of Colorado.
 
 Feel free to email me at <dbamastery@gmail.com> or tweet me at [@dbamastery] with any questions, comments. I’m always happy to help and learn from the #SQLFamily.
 
