@@ -2,7 +2,7 @@
 
 My name is [Carlos Robles] but known as [DBA master], I'm a Microsoft Data Platform MVP and multi-platform Database Administrator (SQL Server, Azure SQL DB, Oracle and MySQL). With more than 10 years of experience in the database administration field, I have had the opportunity to work with different platforms (Linux, Windows, Unix, on-premise, virtual, cloud) for large scale US based companies from different industries like healthcare, food, energy, technology, insurance and banking.
 
-I recently got the honor to get the Microsoft MVP Award in the data platform category, this means that I’m a technology expert who passionately share his knowledge with the community.
+I recently got the honor to get the [Microsoft MVP Award] in the data platform category, this means that I’m a technology expert who passionately share his knowledge with the community.
 
 Also have multiple certifications under my belt (MCP, MCTS, MCSA, MCSE) from the 2008 version until 2016 including Azure SQL DB, ITIL v3 and recently getting certified in Docker Containers, Kubernetes and RedHat redshift.
 
@@ -29,3 +29,4 @@ DBA Master
 [MSSQL Tips]: <https://www.mssqltips.com/sqlserverauthor/326/carlos-robles/>
 [email]: <dbamastery@gmail.com>
 [@dbamastery]: <https://twitter.com/dbamastery>
+[Microsoft MVP Award]: <https://mvp.microsoft.com/en-us/PublicProfile/5003316?fullName=Carlos%20A%20Robles>
