@@ -1,6 +1,5 @@
-# DBA Mastery
+[![N|Solid](http://dbamastery.com/wp-content/uploads/2019/01/cropped-Screen-Shot-2019-01-15-at-9.06.49-PM-1-1.png)](http://dbamastery.com/)
 
-[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/database-2.png)](http://dbamastery.com/)
 Just another witchcraft and wizardry site and DBA tips …
 
 Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
