@@ -12,7 +12,7 @@ Leader of [Guatemala SQL Server user group], mentor, speaker at SQL Saturday’s
 
 If you don’t find me talking about SQL Server or geek stuff on twitter, it is very likely that I will be online playing videos games with my wife and daughter (a gamer family) or sometimes just enjoying the beautiful outdoors of Colorado.
 
-Feel free to email me at <dbamastery@gmail.com> or tweet me at [@dbamastery] with any questions, comments. I’m always happy to help and learn from the #SQLFamily.
+Feel free to email me at <crobles@dbamastery.com> or tweet me at [@dbamastery] with any questions, comments. I’m always happy to help and learn from the #SQLFamily.
 
 I hope you find all the information/ DBA tips shared in this repository are useful for you.
 
