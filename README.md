@@ -1,6 +1,5 @@
 [![N|Solid](http://dbamastery.com/wp-content/uploads/2019/01/cropped-DBM-LOGO-2.png)](http://dbamastery.com/)
 
-
 **Just another witchcraft and wizardry site and DBA tips …**
 
 Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
