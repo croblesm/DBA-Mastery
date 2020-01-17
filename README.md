@@ -14,7 +14,7 @@ Welcome to my GitHub repository, here you will find all source code of my previo
 - Query Store monitoring - SQL Script (**In development**)
 - Availability groups monitoring - Powershell \ SQL Script (**In development**)
 
-## MSDB Tuning
+## [MSDB Tuning](./MSDB%20Tuning)
 This is a simple T-SQL script that creates a set of missing indexes on MSDB database, which improves the performance of backup\restore purge process.
 
 The execution time for **_sp_delete_backuphistory_** stored procedure dropped in 60% after adding the recommended indexes included in this script. So go ahead and try it and let us know how everything works for you!
