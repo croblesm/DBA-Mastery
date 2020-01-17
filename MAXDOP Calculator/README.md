@@ -43,8 +43,6 @@ The output message returns the current and recommended MAXDOP configuration, als
 ## Note
 The requirement to execute this T-SQL script is to have SQLCMD mode enabled in SSMS, you can take a look at one of my blog [post](http://dbamastery.com/tips/sqlcmd-mode-ssms/) where you can learn how to enable it.
 
-> **_Please don't hesitate to leave your feedback, thanks!_**
-
 ## Questions?
 If you have questions or comments about this demo, don't hesitate to contact me at <crobles@dbamastery.com>
 
