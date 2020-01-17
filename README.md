@@ -4,11 +4,11 @@
 
 Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
 
-- [MSDB tuning - SQL Script](#msdb-tuning)
 - [MAXDOP calculator - SQL Script](#maxdop-calculator)
+- [MSDB tuning - SQL Script](#msdb-tuning)
 - [Wait stats widget for Azure Data Studio - JSON \ SQL Script](#wait-stats-widget-for-Azure-Data-Studio)
 - [PerfMon for DBAs - PowerShell (**New version**)](#perfMon-for-dbas)
-- [Database Integrity Checker - SQL Script (**Under testing**)](#Database Integrity Checker)
+- [Database Integrity Checker - SQL Script (**Under testing**)](#database-integrity-checker)
 - [Orphan data files - PowerShell (**In development**)](#orphan-data-files)
 
 ## [MAXDOP Calculator](./MAXDOP%20Calculator)
