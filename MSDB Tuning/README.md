@@ -1,6 +1,6 @@
 ## MSDB Tuning
 
-This is a simple T-SQL script that creates a set of missing indexes on MSDB database, which improves the performance of backup\restore purge process.
+This is a simple T-SQL script that creates a set of missing indexes on MSDB database, which improves the performance of backup/restore purge process.
 
 The execution time for sp_delete_backuphistory stored procedure dropped in 60% after adding the recommended indexes included in this script. So go ahead and try it and let us know how everything works for you!
 
