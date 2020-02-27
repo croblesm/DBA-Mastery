@@ -5,7 +5,7 @@
 Welcome to my GitHub repository, here you will find all source code of my previous and future contributions made through my [blog] as:
 
 - [MAXDOP calculator - SQL Script](#maxdop-calculator)
-- [Azure Data Studio Notebooks](#azure-data-studio-otebooks)
+- [Azure Data Studio Notebooks](#azure-data-studio-notebooks)
 - [MSDB tuning - SQL Script](#msdb-tuning)
 - [Wait stats widget for Azure Data Studio - JSON \ SQL Script](#wait-stats-widget-for-Azure-Data-Studio)
 - [PerfMon for DBAs - PowerShell (**New version**)](#perfMon-for-dbas)
