@@ -16,6 +16,13 @@ This T-SQL script will help you to calculate to correct MAXDOP configuration for
 
 It runs starting from SQL Server 2012, for SQL Server 2016 or major it also returns the MAXDOP value configured at database level.
 
+## [Azure Data Studio Notebooks](./ADS%20Notebooks)
+A collection of Azure Data Studio Notebooks created as POC (proof of concept), to explore the capabilities of this new cool feature. You will find examples for the following scenarios:
+
+* Creating a simple SQL container with Python
+* Upgrading a SQL container to the latest CU with Python
+* Troubleshooting guide with sp_WhoIsActive
+
 ## [MSDB Tuning](./MSDB%20Tuning)
 This is a simple T-SQL script that creates a set of missing indexes on MSDB database, which improves the performance of backup\restore purge process.
 
