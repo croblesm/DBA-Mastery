@@ -104,14 +104,6 @@ $PerfMonCfgFile = @"
 \Process(sqlservr)\Working Set Peak
 \System\Processor Queue Length
 \System\Context Switches/sec
-\$($SQLCntr):SQL Statistics\SQL Compilations/sec
-\$($SQLCntr):SQL Statistics\SQL Re-Compilations/sec
-\$($SQLCntr):SQL Statistics\Batch Requests/sec
-\$($SQLCntr):Buffer Manager\Page life expectancy
-\$($SQLCntr):Buffer Manager\Lazy writes/sec
-\$($SQLCntr):Buffer Manager\Checkpoints/sec
-\$($SQLCntr):Plan Cache\Cache Hit Ratio: SQL Plans
-\$($SQLCntr):Buffer Manager\Buffer Cache Hit Ratio
 "@
 
     # Creating destination directory in case it doesn't exist
